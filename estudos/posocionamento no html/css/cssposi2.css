@@ -1,0 +1,41 @@
+body{
+  
+  height: 100%;
+  width: 100%;
+margin: 0;
+}
+#cx1 {
+  
+   float: right;
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    
+  }
+  #cx2 {
+   float: left;
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    
+  }
+  #cx3 {
+    position: absolute;
+    margin: 28.6%;
+    float: right;
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    margin-left: 92.2%;
+  }
+  #cx4 {
+    position: absolute;
+    margin-top: 28.6%;
+    float: left;
+    
+    background-color: black;
+    height: 200px;
+    width: 200px;
+  
+  }
+ 

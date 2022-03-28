@@ -1,0 +1,54 @@
+  body{
+    display: flex;
+    justify-content: center;
+  }
+#cx1 {
+    height: 700px;
+    width: 700px;
+    background-color: blue;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+  }
+  #cx2 {
+    height: 500px;
+    width: 500px;
+    background-color: red;
+    display: flex;
+    top: 110px;
+    left: 500px;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+  }
+  #cx3 {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    display: flex;
+    align-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+   
+  #cx4 {
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    display: flex;
+    align-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  #cx5 {
+    height: 75px;
+    width: 75px;
+    background-color: yellow;
+    display: flex;
+    align-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
