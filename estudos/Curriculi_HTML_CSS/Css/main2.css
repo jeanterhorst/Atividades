@@ -10,7 +10,7 @@
   border-radius: 50%;
   margin-left: 25px;
   margin-top: 75px;
-  border: 8px solid orange;
+  border: 8px solid #4F4F4F;
 }
 .link {
   padding-top: 60px;
@@ -23,7 +23,7 @@
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: rgb(161, 97, 97);
+  background-color: #A9A9A9;
   overflow-x: hidden;
 }
 
@@ -36,7 +36,7 @@
 }
 
 .menu a:hover {
-  background-color: orange;
+  background-color: #ADD8E6;
   color: black;
 }
 .nome {
